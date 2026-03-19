@@ -34,7 +34,7 @@ My main focus is backend engineering and API development.
 
 <h2>Connect</h2>
 
-<a href="https://linkedin.com/in/TU_LINKEDIN">
+<a href="https://www.linkedin.com/in/marco-antonio-manrique-castro-994364399/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
