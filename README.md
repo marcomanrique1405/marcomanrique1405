@@ -26,7 +26,7 @@ My main focus is backend engineering and API development.
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,html,css,js,bootstrap,git,github&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,spring,postgres,docker,maven,linux,postman,git,github,html,css,js,bootstrap,mysql&theme=dark"/>
 
 </div>
 
