@@ -3,113 +3,96 @@
 <h1>Marco Manrique</h1>
 
 <p>
-Backend Developer Jr<br>
-Java • Spring Boot • REST APIs
+Backend Developer focused on Java & scalable API design
 </p>
 
 </div>
 
 ---
 
-<h2>🧠 Sobre mí</h2>
+## Sobre mí
 
-Soy desarrollador backend enfocado en la construcción de APIs REST escalables utilizando <b>Java</b> y <b>Spring Boot</b>.
+Desarrollador backend enfocado en la construcción de APIs robustas y mantenibles con Java y Spring Boot.
 
-Trabajo bajo principios de <b>Clean Architecture</b> y <b>SOLID</b>, estructurando aplicaciones en capas bien definidas (Domain, Application, Infrastructure, Presentation).
+Trabajo bajo una estructura basada en Clean Architecture, separando responsabilidades en capas claras para facilitar escalabilidad, testing y mantenimiento.
 
-He desarrollado sistemas con autenticación segura mediante <b>JWT</b>, validación de datos, manejo global de errores y persistencia con bases de datos relacionales como <b>PostgreSQL</b>.
+He implementado sistemas completos de autenticación con JWT, manejo de errores centralizado y diseño de bases de datos relacionales orientadas a consistencia e integridad.
 
-Actualmente me enfoco en mejorar mis habilidades en testing, arquitectura y buenas prácticas para desarrollo backend profesional.
-
----
-
-<h2>🚀 Proyecto Destacado</h2>
-
-<h3>🏋️ Gym Tracker API</h3>
-
-<p>
-API backend para la gestión de rutinas de entrenamiento, ejercicios y sesiones, diseñada siguiendo buenas prácticas de arquitectura limpia.
-</p>
-
-<ul>
-<li>✔️ Autenticación y autorización con JWT (Spring Security)</li>
-<li>✔️ Arquitectura limpia (Domain, Application, Infrastructure, Presentation)</li>
-<li>✔️ Diseño RESTful con buenas prácticas HTTP</li>
-<li>✔️ Validación de datos con Bean Validation</li>
-<li>✔️ Manejo global de errores (Exception Handling)</li>
-<li>✔️ Base de datos relacional con PostgreSQL + JPA/Hibernate</li>
-<li>✔️ Uso de UUIDs como identificadores</li>
-<li>✔️ Docker para entorno de base de datos</li>
-<li>✔️ Estructura escalable y mantenible</li>
-</ul>
-
-<p><b>Impacto técnico:</b></p>
-
-<ul>
-<li>🔹 +10 endpoints diseñados</li>
-<li>🔹 +7 entidades relacionadas</li>
-<li>🔹 Sistema de autenticación completo implementado</li>
-</ul>
-
-<a href="LINK_REPO">🔗 Ver repositorio</a>
+Busco construir software que no solo funcione, sino que esté bien diseñado.
 
 ---
 
-<h2>🧩 Habilidades Backend</h2>
+## Proyecto principal
 
-<ul>
-<li>🔹 Diseño de APIs REST (RESTful principles)</li>
-<li>🔹 Autenticación y autorización (JWT)</li>
-<li>🔹 Clean Architecture</li>
-<li>🔹 Principios SOLID</li>
-<li>🔹 DTO Pattern</li>
-<li>🔹 Validación de datos (Bean Validation)</li>
-<li>🔹 Manejo de errores y estandarización de respuestas</li>
-<li>🔹 Modelado de bases de datos relacionales</li>
-<li>🔹 Flujo de trabajo con Git (feature / sprint / release)</li>
-</ul>
+### Gym Tracker API
 
----
+API backend para la gestión de rutinas de entrenamiento, sesiones y progreso del usuario.
 
-<h2>⚙️ Tecnologías</h2>
+Arquitectura diseñada desde cero con enfoque en separación de responsabilidades y escalabilidad.
 
-<div align="center">
+**Características técnicas:**
 
-<img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,docker,maven,linux,postman,git,github,html,css,js,bootstrap&theme=dark"/>
+- Autenticación y autorización con JWT (Spring Security)
+- Arquitectura en capas (Domain, Application, Infrastructure, Presentation)
+- Validación de datos en DTOs (Bean Validation)
+- Manejo global de excepciones
+- Persistencia con JPA + PostgreSQL
+- Uso de UUID como identificadores
+- Relaciones bien definidas entre entidades
+- API REST siguiendo buenas prácticas HTTP
 
-</div>
+**Alcance actual:**
 
----
+- Sistema completo de usuarios autenticados
+- CRUD de rutinas
+- Estructura para días de rutina y ejercicios
+- Base lista para sesiones de entrenamiento
 
-<h2>🧪 Actualmente aprendiendo</h2>
-
-<ul>
-<li>📌 Testing con JUnit y Mockito</li>
-<li>📌 Documentación de APIs con Swagger/OpenAPI</li>
-<li>📌 Docker y despliegue de aplicaciones</li>
-<li>📌 Diseño de sistemas (System Design)</li>
-</ul>
+<a href="LINK_REPO">Ver repositorio</a>
 
 ---
 
-<h2>📫 Contacto</h2>
+## Enfoque técnico
 
-<a href="https://www.linkedin.com/in/marco-antonio-manrique-castro-994364399/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+Más allá de tecnologías, me enfoco en cómo se construye el backend:
 
-<a href="mailto:TU_EMAIL">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+- Diseño de APIs REST claras y consistentes
+- Separación de lógica de negocio y acceso a datos
+- Manejo de errores controlado (no excepciones genéricas)
+- Validación en capa correcta (DTO)
+- Uso de convenciones HTTP correctas (201, 404, 409, 422)
+- Estructura pensada para crecimiento del sistema
 
-<a href="https://github.com/TU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+---
+
+## Stack
+
+Java • Spring Boot • JPA / Hibernate  
+PostgreSQL • MySQL  
+Docker • Maven • Linux  
+Git • GitHub • Postman  
+
+---
+
+## Actualmente trabajando en
+
+- Implementación de sesiones de entrenamiento (tracking real de progreso)
+- Mejora de arquitectura en módulos de ejercicios
+- Preparación para testing (JUnit / Mockito)
+- Documentación de API (OpenAPI / Swagger)
+
+---
+
+## Contacto
+
+- LinkedIn: https://www.linkedin.com/in/marco-antonio-manrique-castro-994364399/
+- GitHub: https://github.com/TU_USUARIO
+- Email: TU_EMAIL
 
 ---
 
 <div align="center">
 
-<b>Clean backend architecture • APIs escalables • Java ecosystem</b>
+Software bien estructurado > software rápido
 
 </div>
